@@ -1,0 +1,2 @@
+I found transformation of a non-smiling selfie into a smiling one and vice versa using non-rigid transformation formulas.
+Next, I placed landmarks in the template so that the non-rigid transformation created from these generated a motion that is physically not possible.
