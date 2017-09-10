@@ -1,1 +1,2 @@
-Image registration is an image processing technique used to align multiple scenes into a single integrated image. It helps overcome issues such as image rotation, scale, and skew that are common when overlaying images.
+Image registration is used to align multiple scenes into a single integrated image. 
+It helps overcome issues such as image rotation, scale, and skew that are common when overlaying images.
