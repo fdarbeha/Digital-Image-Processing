@@ -1,3 +1,2 @@
-In this project, we were given an Optical Coherence Tomography (OCT) scanning of the retina. Our task was to count the number of photoreceptors and create a quantity map.
+In this project, we were given an Optical Coherence Tomography (OCT) scanning of the retina. Our task was to count the number of photoreceptors and create a quantity map to present the quantity map in a local region.
 We were also asked to simulate a disease image in which some of these photoreceptors are randomly selected and destroyed in a localized region, mimicking the effect of a disease.
- to present the quantity map in a local region.
